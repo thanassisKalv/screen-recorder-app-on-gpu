@@ -1,5 +1,4 @@
 #pragma once
-#pragma once
 //
 // Copyright (c) 2013 Juan Palacios juan.palacios.puyana@gmail.com
 // Subject to the BSD 2-Clause License
