@@ -14,7 +14,8 @@ About command line usage:
  - to explore the typical video encoding options you can call it with -h
 
 
-Credits to: the research done by Diederickh for Windows OS high-performance GPU frame-capturing using IDXGIOutputDuplication in this [repository](https://github.com/diederickh/screen_capture/blob/master/src/test/test_win_api_directx_research.cpp)
+###Credits
+to the research done by Diederickh for Windows based high-performance GPU frame-capturing using IDXGIOutputDuplication in this [repository](https://github.com/diederickh/screen_capture/blob/master/src/test/test_win_api_directx_research.cpp)
 
 
 ### to do (high level)
